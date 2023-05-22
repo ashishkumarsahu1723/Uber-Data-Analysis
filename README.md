@@ -1,13 +1,13 @@
 # Uber-Data-Analysis
-OBJECTIVE:- To estimate the revenue figure of uber in a year in NY and it's growth and also aimed to expose all the interesting insights that can be derived from a detailed analysis of the dataset.
+# OBJECTIVE:- To estimate the revenue figure of uber in a year in NY and it's growth and also aimed to expose all the interesting insights that can be derived from a detailed analysis of the dataset.
 
-What is Data Analysis ?
+# What is Data Analysis ?
 As MY Project name is Uber Data Analysis so first question comes in our head whats is data analysis like what are the objectives of data analysis so-
 
 Data analysis is defined as a process of cleaning, transforming, and modeling data to discover useful information for business decision-making. The purpose of Data Analysis is to extract useful information from data and taking the decision based upon the data analysis.
 A simple example of Data analysis is whenever we take any decision in our day-to-day life is by thinking about what happened last time or what will happen by choosing that particular decision. This is nothing but analyzing our past or future and making decisions based on it. For that, we gather memories of our past or dreams of our future. So that is nothing but data analysis. Now same thing analyst does for business purposes, is called Data Analysis.
 
-CONTEXT OF ENTIRE PROJECT:-
+# CONTEXT OF ENTIRE PROJECT:-
 This uber dataset contains data about Uber’s ridership between September 2014 and August 2015. This dataset contains ~31 million rows and columns of origin, destination, pickup date and time, trip distance, and duration.
 
 The combination of trip distance and duration allows for estimating Uber’s revenue for each trip in NYC. In another hand, the pickup and drop-off locations were anonymized and grouped as taxi zones instead of geographic coordinates. This is a better attempt to preserve data privacy, but it precludes the positioning of such locations on a map.
@@ -23,3 +23,9 @@ Also, feature engineering was used to construct several columns that can help wi
 . per minute = 0.35
 . per mile = 1.75
 . Minimum fare = 8
+# FINDINGS:-
+# 1.The effect of time on demand for uber riders: distribution per hour, weekday, and month.
+# 2.Estimate monthly base revenue: how much was NYC market worth in the period ?
+# 3.Month over month revenue growth: how fast has uber grown in the period ?
+# 4.A plot with the total number of trips per day, highlighting some change points assosiated with major holidays and other weather and touristic/cultural events.
+# 5.Visualization the most popular pick up and drop off location pairs.
